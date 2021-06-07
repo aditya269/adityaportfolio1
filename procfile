@@ -1,1 +1,1 @@
-web: gunicorn adityaportfolio1.wsgi
+web: gunicorn portfolio.wsgi
